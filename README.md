@@ -1,5 +1,5 @@
 # Short_URL
-#Project Features:
+# Project Features:
 <ul>
 <li>URL Shortening: Users can input long URLs and receive a corresponding shortened URL.</li>
 <li>URL Redirection: Shortened URLs redirect users to the original long URL when accessed.</li>
@@ -8,14 +8,16 @@
 <li>User-Friendly Interface: Create an intuitive and responsive web interface.</li>
 </ul>
 
-#Technology Stack:
+# Technology Stack:
 
-HTML, CSS, JavaScript for the frontend.
-PHP for the server-side logic.
-MySQL for the database.
-A web server _still implementing__ for hosting.
+<ul>
+<li>HTML, CSS, JavaScript for the frontend.</li>
+<li>PHP for the server-side logic.</li>
+<li>MySQL for the database.</li>
+<li>A web server _still implementing__ for hosting.</li>
+</ul>
 
-#Project Structure:
+# Project Structure:
 <ul>
 <li>index.html: The main webpage with a form to input long URLs and display the shortened URLs.</li>
 <li>styles.css: CSS file for styling the webpage.</li>
